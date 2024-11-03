@@ -1,4 +1,4 @@
-Custom Shell Program
+**Custom Shell Program**
 Code Status
 The shell program is functional with essential built-in commands like cd, exit, jobs, kill, and help. The shell also supports the execution of external commands and the management of background processes. However, some features may have limitations or known bugs (see below).
 
